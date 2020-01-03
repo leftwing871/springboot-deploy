@@ -19,10 +19,3 @@ hooks:
 #    - location: healthCheck.sh
 #      timeout: 60
 #      runas: ec2-user
-
-
-
-
-/opt/codedeploy-agent/deployment-root/25157107-7e7f-43a8-b021-3e70eefbecae/d-H6M4ACLX0/deployment-archive/scripts/deploy.sh
-
-/opt/codedeploy-agent/deployment-root/25157107-7e7f-43a8-b021-3e70eefbecae/d-H6M4ACLX0/deployment-archive/deploy.sh
